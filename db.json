@@ -1,0 +1,32 @@
+{
+  "TaskManager": [
+    {
+      "id": "f687d96a-02b4-44d2-bcb6-2ad62d938223",
+      "title": "moveis 2",
+      "time": "evening",
+      "description": "rusticos",
+      "status": "done"
+    },
+    {
+      "id": "328c77b9-9f6f-4125-8865-52980e371545",
+      "title": "certoe",
+      "time": "morning",
+      "description": "rrado",
+      "status": "in_progress"
+    },
+    {
+      "id": "ae256b1c-89c6-40fe-892a-c8ca68060ee5",
+      "title": "nova tareade",
+      "time": "evening",
+      "description": "rerere",
+      "status": "not_started"
+    },
+    {
+      "id": "e82d3733-c095-4442-89b2-2530fd167999",
+      "title": "new task",
+      "time": "afternoon",
+      "description": "task",
+      "status": "not_started"
+    }
+  ]
+}
